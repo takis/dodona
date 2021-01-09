@@ -1,0 +1,4 @@
+>>> echo("Hello world!")
+Hello world!
+>>> echo(42)
+42

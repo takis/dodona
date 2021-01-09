@@ -1,0 +1,11 @@
+{
+  "description": {
+    "names": {
+      "nl": "Echo3"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": []
+}
