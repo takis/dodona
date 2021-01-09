@@ -1,7 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "Echo"
+      "en": "Echo",
+      "nl": "Echo"
     }
   },
   "evaluation": {
