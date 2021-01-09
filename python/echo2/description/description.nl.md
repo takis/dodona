@@ -1,30 +1,30 @@
-You receive one line of input and you simply have to repeat this input. You have to write a program which functions as an echo.
+Je krijgt een regel invoer, en je schrijft die tweemaal naar de uitvoer.
 
 ### Input
 
-One line of text without any further restrictions.
+Een regel tekst.
 
 ### Output
 
-The same text which can be read under input.
+Tweemaal de ingevoerde regel tekst op dezelfde regel.
 
 ### Example
 
 **Input:**
 
-      42
+      konijn
 
 **Output:**
 
-      42
+      konijnkonijn
 
 ### Example
 
 **Input:**
 
-      ECHO
+      123
 
 **Output:**
 
-      ECHO
+      123123
 
