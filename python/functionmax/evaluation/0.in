@@ -1,0 +1,9 @@
+>>> maximum(4, 8)
+8
+
+>>> maximum(4, 4)
+4
+
+>>> maximum(4, -8)
+r
+
