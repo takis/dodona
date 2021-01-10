@@ -1,0 +1,16 @@
+>>> bmi(76, 1.835)
+22.570514295896473, "normaal gewicht"
+
+>>> bmi(72, 1.5)
+32.0, "ernstig overgewicht"
+
+>>> bmi(56, 1.835)
+16.63090527066056, "ondergewicht"
+
+>>> bmi(90, 1.835)
+26.728240613561614, "licht overgewicht"
+
+>>> bmi(140, 1.835)
+41.5772631766514, "ziekelijk overgewicht"
+
+
