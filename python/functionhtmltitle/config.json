@@ -1,0 +1,11 @@
+{
+  "description": {
+    "names": {
+      "nl": "Functie HTML"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": []
+}

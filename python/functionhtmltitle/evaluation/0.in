@@ -1,0 +1,5 @@
+>>> view("test")
+'<html><body>test</body></html>'
+
+>>> view("konijn")
+'<html><body>konijn</body></html>'
