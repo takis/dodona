@@ -1,0 +1,9 @@
+>>> letters("test")
+'t','t'
+
+>>> letters("konijn")
+'k','n'
+
+>>> letters("A")
+'A','A'
+
