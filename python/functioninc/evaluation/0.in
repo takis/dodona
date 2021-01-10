@@ -1,0 +1,15 @@
+>>> increment(4, 8)
+12
+
+>>> increment(4, 4)
+8
+
+>>> increment(4, -8)
+-4
+
+>>> increment(4)
+5
+
+>>> increment(-4)
+-3
+
