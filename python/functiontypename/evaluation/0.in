@@ -1,0 +1,9 @@
+>>> typenaam(4)
+'integer'
+
+>>> typenaam(4.2)
+'float'
+
+>>> typenaam("abc")
+'string'
+
