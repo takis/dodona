@@ -1,0 +1,11 @@
+{
+  "description": {
+    "names": {
+      "nl": "Functie eerste letter"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": []
+}

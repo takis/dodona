@@ -1,0 +1,11 @@
+{
+  "description": {
+    "names": {
+      "nl": "Functie negatie"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": []
+}

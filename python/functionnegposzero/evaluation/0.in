@@ -1,0 +1,8 @@
+>>> neg_pos_nul(0)
+'nul'
+
+>>> neg_pos_nul(-110)
+'negatief'
+
+>>> neg_pos_nul(10)
+'positief'

@@ -1,0 +1,5 @@
+>>> eerste_letter("test")
+'t'
+
+>>> eerste_letter("konijn")
+'k'
