@@ -1,0 +1,29 @@
+>>> feetinch2cm(1, 0)
+30.48
+
+>>> feetinch2cm(0, 1)
+2.54
+
+>>> feetinch2cm(6, 1)
+185.42
+
+>>> feetinch2cm(5, 4)
+162.56
+
+>>> feetinch2cm(5, 10)
+177.8
+
+>>> feetinch2cm(5, 11)
+180.34
+
+>>> feetinch2cm(5, 3)
+160.02
+
+>>> feetinch2cm(4, 10)
+147.32
+
+>>> feetinch2cm(6, 0.25)
+183.515
+
+>>> feetinch2cm(6, 10)
+208.28

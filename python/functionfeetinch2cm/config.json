@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "nl": "Functie feet inch naar centimeter"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "JMniM9YSyuYkhmd_NQrDEvE4XP4vnQcSUsFscKfpbi3t_xh-h2jRSK5TrIv8y3IY",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
