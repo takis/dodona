@@ -1,0 +1,11 @@
+>>> tweede_letter("test")
+'e'
+
+>>> tweede_letter("konijn")
+'o'
+
+>>> tweede_letter("abcdefghikjlmnopqrstuvwxyz")
+'b'
+
+>>> tweede_letter("123")
+'2'
