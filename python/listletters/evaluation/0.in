@@ -1,0 +1,11 @@
+>>> lijstletters("test")
+['t','t']
+
+>>> lijstletters("konijn")
+['k','n']
+
+>>> lijstletters("A")
+['A','A']
+
+>>> lijstletters("12345")
+['1','5']
