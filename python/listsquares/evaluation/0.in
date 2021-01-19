@@ -1,0 +1,20 @@
+>>> lijstkwadraten(0, 4)
+[0, 1, 4, 9]
+
+>>> lijstkwadraten(1, 5)
+[1, 4, 9, 16]
+
+>>> lijstkwadraten(4, 7)
+[16, 25, 36]
+
+>>> lijstkwadraten(4, 7)
+[16, 25, 36]
+
+>>> lijstkwadraten(7, 8)
+[49]
+
+>>> lijstkwadraten(10, 11)
+[100]
+
+>>> lijstkwadraten(8, 11)
+[64, 81, 100]
