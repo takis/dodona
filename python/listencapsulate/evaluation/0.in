@@ -1,0 +1,14 @@
+>>> omvat(['a', 'b', 'c'], '*', '*')
+['*', 'a', 'b', 'c', '*']
+
+>>> omvat(['zon', 'maan'], '#', '$')
+['#', 'zon', 'maan', '$']
+
+>>> omvat(['olifant', 'nijlpaard'], 'begin', 'einde')
+['begin', 'olifant', 'nijlpaard', 'einde']
+
+>>> omvat([31, 42], 0, 100)
+[0, 31, 42, 100]
+
+>>> omvat([0, 0], 10, 10)
+[10, 0, 0, 10]
