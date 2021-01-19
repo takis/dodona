@@ -1,9 +1,6 @@
 >>> vervang(['a', 'b', 'c', 'd'], 'c', 'z')
 ['a', 'b', 'z', 'd']
 
->>> vervang(['a', 'b', 'c'], 'z', 's')
-['a', 'b', 'c']
-
 >>> vervang(['rabbit', 'bunny', 'hare', 'rabbit'], 'rabbit', 'konijn')
 ['konijn', 'bunny', 'hare', 'rabbit']
 
@@ -12,6 +9,3 @@
 
 >>> vervang([7, 8, 7, 7, 8, 9], 7, 6)
 [6, 8, 7, 7, 8, 9]
-
->>> vervang([1, 2, 3, 3, 2, 1], 7, 6)
-[1, 2, 3, 3, 2, 1]
