@@ -1,4 +1,6 @@
-Schrijf een functie `dict_bmi()` met 1 parameter x. Deze parameter bevat een dictionary met personen met diens gewicht en lengte. De functie heeft een dictionary als return value, met daarin de namen als keys, en als waardes de bmi-waardes.
+Schrijf een functie `dict_bmi()` met 1 parameter x. Deze parameter bevat een dictionary met personen met diens gewicht en lengte. De functie heeft een dictionary als return value, met daarin de namen als keys, en als waardes de bmi-waardes afgerond op 1 cijfer na de komma.
+
+Hit: round()
 
 ### Input
 
