@@ -28,3 +28,12 @@ Een dictionary met voor iedere integer in de input lijst het key-value pair
 **Output:**
 
       [16, 36, 81]
+
+### Boilerplate
+
+```python
+def dict_squares(d):
+    result = {}
+    # ...
+    return result
+```
