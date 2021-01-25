@@ -1,4 +1,4 @@
-Schrijf een functie met 1 parameter x met x een lijst van integers. De functie heeft een dictionary als return value, met daarin als keys telkens de getallen en als waardes de overeenkomstige kwadraten van die getallen.
+Schrijf een functie `dict_squares()` met 1 parameter x met x een lijst van integers. De functie heeft een dictionary als return value, met daarin als keys telkens de getallen en als waardes de overeenkomstige kwadraten van die getallen.
 
 ### Input
 

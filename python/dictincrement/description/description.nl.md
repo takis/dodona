@@ -1,4 +1,4 @@
-Schrijf een functie die 1 optelt bij iedere waarde in een dictionary.
+Schrijf een functie `dict_increment()` die 1 optelt bij iedere waarde in een dictionary.
 
 ### Input
 

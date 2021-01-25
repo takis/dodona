@@ -1,4 +1,4 @@
-Schrijf een functie die als resultaat de lege dictionary geeft.
+Schrijf een functie `dict_empty()` die als resultaat de lege dictionary geeft.
 
 ### Input
 
