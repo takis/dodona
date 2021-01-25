@@ -1,0 +1,11 @@
+>>> dict_add_kv({"Doom": 1993})
+{"Doom": 1993, "Fortnite": 2017}
+
+>>> dict_add_kv({})
+{"Fortnite": 2017}
+
+>>> dict_add_kv({"Doom": 1993, "Quake": 1996})
+{"Doom": 1993, "Quake": 1996, "Fortnite": 2017}
+
+>>> dict_add_kv({"Fortnite": 2017})
+{"Fortnite": 2017}
