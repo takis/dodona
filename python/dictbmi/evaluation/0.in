@@ -1,0 +1,11 @@
+>>> dict_bmi({"Jan": {"gewicht": 79, "lengte": 1.89},"Piet": {"gewicht": 85, "lengte": 1.80},})
+{"Jan": 22.1, "Piet": 26.2}
+
+>>> dict_bmi({"Jan": {"gewicht": 66, "lengte": 1.83}})
+{"Jan": 19.7}
+
+>>> dict_bmi({"Jan": {"gewicht": 96, "lengte": 1.83}})
+{"Jan": 28.7}
+
+>>> dict_bmi({"Jan": {"gewicht": 78, "lengte": 1.835}})
+{"Jan": 23.2}
