@@ -1,0 +1,5 @@
+>>> dict_increment({"a": 1, "c": 100})
+{'a': 2, 'c': 101}
+
+>>> dict_increment({'jan': 83, 'piet': 77})
+{'jan': 84, 'piet': 78}

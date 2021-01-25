@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "nl": "Functie verhoog waarden in dictionary"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "P6Ka9azpad2ZXtsyt2HQ4n9AzFxI7SV7d-b9YfEPTFHBhtVf-xKs_EnS34uDT_3-",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
