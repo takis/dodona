@@ -1,0 +1,11 @@
+>>> dict_eyecolor_counter(["bruin", "bruin"])
+{'bruin': 2, 'blauw': 0}
+
+>>> dict_eyecolor_counter(["bruin", "blauw"])
+{'bruin': 1, 'blauw': 1}
+
+>>> dict_eyecolor_counter(["bruin", "blauw", "bruin"])
+{'bruin': 2, 'blauw': 1}
+
+>>> dict_eyecolor_counter([])
+{'bruin': 0, 'blauw': 0}
