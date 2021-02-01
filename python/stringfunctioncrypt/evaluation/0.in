@@ -1,0 +1,20 @@
+>>> badcrypt("")
+""
+
+>>> badcrypt("abc")
+"BCD"
+
+>>> badcrypt("rst")
+"STU"
+
+>>> badcrypt("xyz")
+"YZA"
+
+>>> badcrypt("yza")
+"ZAB"
+
+>>> badcrypt("ik heet bert")
+"JL IFFU CFSU"
+
+>>> badcrypt("wij spelen among us")
+"XJK TQFMFO BNPOH VT"
