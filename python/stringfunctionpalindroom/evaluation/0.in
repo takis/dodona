@@ -1,0 +1,23 @@
+>>> ispalindroom("")
+True
+
+>>> ispalindroom("abc")
+False
+
+>>> ispalindroom("abaaba")
+True
+
+>>> ispalindroom("xyx")
+True
+
+>>> ispalindroom("yza")
+False
+
+>>> ispalindroom("meetsysteem")
+True
+
+>>> ispalindroom("ik heet bert")
+False
+
+>>> ispalindroom("koortsmeetsysteemstrook")
+True
