@@ -1,0 +1,11 @@
+>>> BMI(gewicht=67, lengte=1.83).bmi()
+20.0
+
+>>> BMI(gewicht=66, lengte=1.83).bmi()
+19.7
+
+>>> BMI(gewicht=96, lengte=1.83).bmi()
+28.7
+
+>>> BMI(gewicht=78, lengte=1.835).bmi()
+23.2
